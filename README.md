@@ -6,3 +6,4 @@ Repository for Coursera assignments.
 - Module 3 solution page: https://fdammacco.github.io/coursera-repository/module3-solution/
   - Optional: https://fdammacco.github.io/coursera-repository/module3-solution-opt/
 - Module 4 solution page: https://fdammacco.github.io/coursera-repository/module4-solution/
+- Module 5 solution page: https://fdammacco.github.io/coursera-repository/module5-solution/
