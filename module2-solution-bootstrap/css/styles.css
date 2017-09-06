@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-size: 175%;
+}
+
+section {
+    border: 1px solid black;
+    margin-bottom: 15px; 
+    background-color: lightgray;
+}
+
+h2 {
+    font-size: 125%;
+    border: 1px solid black;
+    border-top: 0px;
+    border-right: 0px;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    margin: 0px;    
+    float: right;
+    width: 100px;
+}
+
+p {
+    padding: 15px;
+    clear: right;
+}
+
+#section-title-1 {
+    background-color: pink;
+}
+
+#section-title-2 {
+    background-color: crimson;
+    color: white;
+}
+
+#section-title-3 {
+    background-color: lightgoldenrodyellow;
+}

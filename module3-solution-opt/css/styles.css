@@ -1,0 +1,20 @@
+h1 {
+    margin-bottom: 20px;
+}
+
+section {
+    background: lightgray;
+    padding: 1px 15px 10px 15px;
+    margin-bottom: 30px;
+}
+
+/* Approfondisci css pseudoelement ::before e ::after
+
+a span {
+    float: right;
+}
+
+a span::after {
+    content: "";
+    clear:both;
+}*/
