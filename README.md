@@ -8,3 +8,6 @@ Repository for Coursera assignments.
   - [Optional](https://fdammacco.github.io/coursera-repository/html_css_js_webdev_course/module3-solution-opt/)
 - [Module 4 solution](https://fdammacco.github.io/coursera-repository/html_css_js_webdev_course/module4-solution/)
 - [Module 5 solution](https://fdammacco.github.io/coursera-repository/html_css_js_webdev_course/module5-solution/)
+
+## Single Page Web Applications with AngularJS
+- [Module 1 solution](https://fdammacco.github.io/coursera-repository/singlepage_webapp_angularjs_course/module1-solution/)
