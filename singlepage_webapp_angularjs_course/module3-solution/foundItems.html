@@ -1,0 +1,9 @@
+<ul class="list-group narrow-group">
+    <li class="row list-group-item" ng-repeat="item in items">
+        <div class="col-md-10 align-middle">{{item.name}}, {{item.short_name}}, {{item.description}}</div>
+        <div class="col-md-2">
+            <button class="btn btn-sm" ng-click="onRemove({index: $index})">Don't want this one!</button>
+        </div>
+    </li>
+    <h2 class="alert alert-danger" ng-if="items.length === 0">Nothing found</h2>
+</ul>
