@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="MenuApp">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Menu App</h1>
+
+    <ui-view></ui-view>
+
+    <!-- libs -->
+    <script src="https://code.angularjs.org/1.6.6/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.3/angular-ui-router.min.js"></script>
+
+    <!-- modules -->
+    <script src="src/modules/data.module.js"></script>
+    <script src="src/modules/menuapp.module.js"></script>
+
+    <!-- routes -->
+    <script src="src/routes.js"></script>
+
+    <!-- artifacts -->
+    <!-- services -->
+    <script src="src/services/menudata.service.js"></script>
+    <!-- components -->
+    <script src="src/components/categories.component.js"></script>
+    <script src="src/components/items.component.js"></script>
+    <!-- controllers -->
+    <script src="src/controllers/categories.controller.js"></script>
+    <script src="src/controllers/items.controller.js"></script>
+    <script src="src/controllers/categories.component.controller.js"></script>
+    <script src="src/controllers/items.component.controller.js"></script>
+
+</body>
+
+</html>

@@ -13,3 +13,4 @@ Repository for Coursera assignments.
 - [Module 1 solution](https://fdammacco.github.io/coursera-repository/singlepage_webapp_angularjs_course/module1-solution/)
 - [Module 2 solution](https://fdammacco.github.io/coursera-repository/singlepage_webapp_angularjs_course/module2-solution/)
 - [Module 3 solution](https://fdammacco.github.io/coursera-repository/singlepage_webapp_angularjs_course/module3-solution/)
+- [Module 4 solution](https://fdammacco.github.io/coursera-repository/singlepage_webapp_angularjs_course/module4-solution/)
